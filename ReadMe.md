@@ -1,8 +1,4 @@
-# GSoC 2020 - QMLHEP Exercise
+# GSoC 2020 - QMLHEP 
 
-### The Solution is in three parts - with their respective ipynb and PDF files
-
-1) ML Part
-2) Quantum Computing Part 1
-3) Quantum Computing Part 2
+This repo contains the code for few of the tests I conducted relating to Quantum Computing Algorithms
  
