@@ -2,7 +2,7 @@ import typing
 
 import numpy as np
 import sympy
-
+ 
 from paulicirq.pauli import PauliWord, Pauli
 
 
