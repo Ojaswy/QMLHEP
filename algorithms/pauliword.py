@@ -1,7 +1,7 @@
 import typing
 
 import numpy as np
-import sympy
+import sympy 
  
 from paulicirq.pauli import PauliWord, Pauli
 
