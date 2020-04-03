@@ -3,7 +3,7 @@ import typing
 import numpy as np
 import sympy  
  
-from paulicirq.pauli import PauliWord, Pauli
+from paulicirq.pauli import PauliWord, Pauli 
 
 
 def pauli_word_exp_factorization(
