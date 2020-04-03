@@ -1,6 +1,6 @@
 import typing
 import openfermion 
- 
+  
  
 def reduce_inactive_qubits(
         qubit_operator: openfermion.QubitOperator,
