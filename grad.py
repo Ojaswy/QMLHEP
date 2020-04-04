@@ -20,7 +20,7 @@ from paulicirq.utils import ToBeTested
 
 ZERO_OP = LinearCombinationOfOperations({})  # constant
 
-
+ 
 class GradNotImplemented:
     __slots__ = ("operation",)
 
